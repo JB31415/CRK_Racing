@@ -1,0 +1,8 @@
+numpy
+asyncio
+websockets
+picamera2
+RPI.GPIO
+opencv-python-headless
+pyzbar
+PyQt5
